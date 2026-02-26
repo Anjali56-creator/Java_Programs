@@ -10,6 +10,9 @@ public class do_while_loop {
         }
         while(i<=10);//condition
         System.out.println(i);
+        while(i++<=10){
+        System.out.println(i);
     }
-    
+    }
+
 }
