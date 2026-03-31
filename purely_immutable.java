@@ -2,7 +2,7 @@ public class purely_immutable {
     public static void main(String[] args) {
         College college = new College("IIT G", "Assam");
 
-        Student s1 = new Student(28, "Aditya", college);
+        Student s1 = new Student(28, "Anjali", college);
 
         System.out.println(s1.getCollege().name); // IIT G
 
