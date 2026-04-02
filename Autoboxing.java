@@ -4,6 +4,9 @@ public class Autoboxing {
         Integer y=x; //autoboxing
         System.out.println(x);
         System.out.println(y);//unboxing
+        int z=100;
+        Integer w = Integer.valueOf(z);  // manual, old way
+        System.out.println(w);
         Integer a=20;//autoboxing
         int b=a;//unboxing
         System.out.println(a);
