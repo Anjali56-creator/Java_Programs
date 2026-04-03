@@ -1,0 +1,11 @@
+# Compiled Java bytecode
+*.class
+
+# Common Java build output folders
+bin/
+out/
+target/
+build/
+
+# IDE files (optional)
+*.log
