@@ -479,10 +479,8 @@ Phase 4 — Advanced Java ━━━━━━━━━━━━━━━━━━
 | [Oracle Java Docs](https://docs.oracle.com/en/java/) | Official documentation |
 
 ### 🎥 YouTube Channels
-- **Kunal Kushwaha** — Java + DSA full course (free, highly recommended)
-- **Telusko** — Java tutorials in Hindi & English
-- **CodeWithHarry** — Java in Hindi for beginners
-- **Amigoscode** — Modern Java & Spring Boot
+- **CODER ARMY** — Java + DSA full course (free, highly recommended)
+
 
 ---
 
