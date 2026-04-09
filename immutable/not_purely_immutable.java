@@ -7,10 +7,12 @@ public class not_purely_immutable {
         Student s1 = new Student(28, "Anjali", college);
 
         System.out.println(s1.getCollege().name); // IIT G
-
+        System.out.println(s1.getCollege().address); // Assam
         s1.getCollege().name = "IIT B";
+        s1.getCollege().address = "Bangalore";
 
         System.out.println(s1.getCollege().name); // IIT B
+        System.out.println(s1.getCollege().address); // Bangalore
         
 
     }
